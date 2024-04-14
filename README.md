@@ -6,7 +6,7 @@ My profound interest in data science inspires my passion for unraveling intricat
 I also possess a strong cross-cultural awareness and a wealth of experience working in diverse international environments. 
 Additionally, as a dedicated leader in healthcare supply chain management, I am deeply committed to building a resilient supply chain that can withstand challenges and continuous improvement to increase efficiency.
 
-## About Me 📊
+## About Me 👩🏻
 
 - 🔭 I’m actively expanding my academic qualifications with a third degree in Data Science. This endeavor underscores my unwavering dedication to personal and professional development within the realms of data science and machine learning industries
 - 🌱 I’m constantly learning and staying up-to-date with the latest in data analytics and leadership
@@ -34,6 +34,8 @@ Additionally, as a dedicated leader in healthcare supply chain management, I am 
 - My proficiency in data analytics has further facilitated data-driven decision-making, leading to the optimization of supply chain processes and the realization of organizational goals
 - My dedication to continuous learning and adaptation in this dynamic field underscores my leadership in navigating the intricacies of healthcare supply chain management
 
+## Data Science Projects  📊
+Riding the Waves of Biodiversity: How Ocean Surfing Influences our Body Microbiome (Chaminade University of Honolulu - Data Science Program) 
 
 Feel free to explore my repositories and let's connect!  ☺️
 
