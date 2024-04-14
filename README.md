@@ -35,7 +35,9 @@ Additionally, as a dedicated leader in healthcare supply chain management, I am 
 - My dedication to continuous learning and adaptation in this dynamic field underscores my leadership in navigating the intricacies of healthcare supply chain management
 
 ## Data Science Projects  📊
-Riding the Waves of Biodiversity: How Ocean Surfing Influences our Body Microbiome (Chaminade University of Honolulu - Data Science Program) 
+  2024 Nā Liko Naʻauao Research Symposium
+- Riding the Waves of Biodiversity: How Ocean Surfing Influences our Body Microbiome
+(Chaminade University of Honolulu - Data Science Program) 
 
 Feel free to explore my repositories and let's connect!  ☺️
 
