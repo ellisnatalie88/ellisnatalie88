@@ -39,7 +39,7 @@ Additionally, as a dedicated leader in healthcare supply chain management, I am 
 - Riding the Waves of Biodiversity: How Ocean Surfing Influences our Body Microbiome
 (Chaminade University of Honolulu - Data Science Program) 
 
-Feel free to explore my repositories and let's connect!  ☺️
+Feel free to explore my repositories and let's connect! 😊
 
 
 
