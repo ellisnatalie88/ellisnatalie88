@@ -2,10 +2,9 @@
 
 I'm ELLIS NATALIE 
 
-As a dedicated leader in healthcare supply chain management, I am deeply committed to building a resilient supply chain that can withstand challenges and continuous improvement to increase efficiency.
 My profound interest in data science inspires my passion for unraveling intricate data problems with unmatched enthusiasm. 
-Additionally, I also possess a strong cross-cultural awareness and a wealth of experience working in diverse international environments. 
-
+I also possess a strong cross-cultural awareness and a wealth of experience working in diverse international environments. 
+Additionally, as a dedicated leader in healthcare supply chain management, I am deeply committed to building a resilient supply chain that can withstand challenges and continuous improvement to increase efficiency.
 
 ## About Me 📊
 
