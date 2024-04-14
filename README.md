@@ -2,9 +2,10 @@
 
 I'm ELLIS NATALIE 
 
-As a dedicated leader in healthcare supply chain management, I am deeply committed to guiding my team towards innovative solutions. 
+As a dedicated leader in healthcare supply chain management, I am deeply committed to building a resilient supply chain that can withstand challenges and continuous improvement to increase efficiency.
 My profound interest in data science inspires my passion for unraveling intricate data problems with unmatched enthusiasm. 
 Additionally, I also possess a strong cross-cultural awareness and a wealth of experience working in diverse international environments. 
+
 
 ## About Me 📊
 
@@ -14,6 +15,7 @@ Additionally, I also possess a strong cross-cultural awareness and a wealth of e
 - 📫 How to reach me: ellis.natalie@student.chaminade.edu
 - 😄 Pronouns: She/Her/Hers
 - ⚡ An interesting tidbit about me: I love crunching numbers and travel! 
+
 
 ## My Data Science and Supply Chain Toolbox 🧰
 
@@ -27,11 +29,12 @@ Additionally, I also possess a strong cross-cultural awareness and a wealth of e
 
 ## Leadership Highlights ✨
 
-- Possessed a decade-long tenure in the healthcare industry’s supply chain management
-- Effectively led a team of 40 members and instilling resilience in supply chain operations and logistics
+- Possessed a decade-long tenure in the healthcare industry’s supply chain management and dedicated to excellence in supply chain field and leadership role
+- Effectively led a team of 40 members and instilling resilience in supply chain operations and logistics to ensure the uninterrupted flow of healthcare supplies
 - Enhanced business processes efficiency and ensuring a seamless flow of healthcare supplies, even amidst challenging situations
-- My proficiency in data analytics has further facilitated data-driven decision-making, leading to the optimization of supply chain processes and the realization of organizational goals. 
-- My dedication to continuous learning and adaptation in this dynamic field underscores my leadership in navigating the intricacies of healthcare supply chain management.
+- My proficiency in data analytics has further facilitated data-driven decision-making, leading to the optimization of supply chain processes and the realization of organizational goals
+- My dedication to continuous learning and adaptation in this dynamic field underscores my leadership in navigating the intricacies of healthcare supply chain management
+
 
 Feel free to explore my repositories and let's connect!  ☺️
 
